@@ -1,8 +1,6 @@
-# Hi, I'm James 👋
+James Agbonhese
 
-🎓 Master's in Electrical & Computer Engineering @ Concordia University
-
-🤖 AI Engineer | Machine Learning | LLM Applications
+AI • Cloud • Machine Learning • Automation
 
 ☁️ Cloud & DevOps
 AWS • Azure • Docker • Kubernetes
