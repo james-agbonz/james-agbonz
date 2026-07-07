@@ -47,3 +47,10 @@ Email:
 ![Redis](https://img.shields.io/badge/Redis-red)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
