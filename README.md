@@ -46,11 +46,25 @@ Email:
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-agbonz&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=james-agbonz&theme=github-dark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=james-agbonz&theme=algolia&no-frame=true&row=1&column=7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=james-agbonz&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=james-agbonz&layout=compact)
+<table>
+<tr>
+<td>
 
-![](https://komarev.com/ghpvc/?username=james-agbonz)
+<img src="https://github-readme-stats.vercel.app/api?username=james-agbonz&show_icons=true&theme=github_dark&rank_icon=github" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-agbonz&layout=compact&theme=github_dark" />
+
+</td>
+</tr>
+</table>
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=james-agbonz)](https://github.com/james-agbonz)
