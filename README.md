@@ -46,7 +46,8 @@ Email:
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=james-agbonz&theme=github-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=james-agbonz&theme=github-dark)](https://github-readme-stats.vercel.app/api?username=james-agbonz&show_icons=true&theme=github_dark)
+https://github-readme-stats.vercel.app/api/top-langs/?username=james-agbonz&layout=compact&theme=github_dark
 ![Trophies](https://github-profile-trophy.vercel.app/?username=james-agbonz&theme=algolia&no-frame=true&row=1&column=7)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=james-agbonz&theme=github-dark)
 
