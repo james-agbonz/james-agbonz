@@ -38,17 +38,11 @@ Email:
 ...
 
 ![Python](https://img.shields.io/badge/Python-blue)
-
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5)
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991)
-
 ![Redis](https://img.shields.io/badge/Redis-red)
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
 
