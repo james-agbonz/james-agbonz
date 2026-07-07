@@ -1,6 +1,6 @@
 # James Agbonhese
 
-AI • Cloud • Machine Learning • Automation
+### AI • Cloud • Machine Learning • Automation
 
 ☁️ Cloud & DevOps
 AWS • Azure • Docker • Kubernetes
