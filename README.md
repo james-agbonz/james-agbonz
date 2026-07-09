@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-Building with AI, automation, and code to turn complex ideas into smart systems. I design intelligent cloud solutions, shape responsible AI, and lead teams that turn strategy into impact. .
+Building with AI, automation, and code to turn complex ideas into smart systems. I design intelligent cloud solutions, shape responsible AI, and lead teams that turn strategy into impact.
 
 ## 💻 Tech Stack
 
