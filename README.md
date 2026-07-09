@@ -3,7 +3,7 @@
 ### Solutions Engineer • AI • Machine Learning • Cloud • Generative AI • MLOps
 
 <p align="center">
-  <img src="assets/AIme.png" alt="James Agbonhese AI Banner" width="100%">
+  <img src="assets/AIme.jpg" alt="James Agbonhese AI Banner" width="100%">
 </p>
 
 ## 👨‍💻 About Me
