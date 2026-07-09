@@ -83,7 +83,9 @@ AI Engineer • Machine Learning • Cloud • Generative AI • MLOps
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Cloud+Engineer;LLM+Developer;Computer+Vision;Always+Learning+🚀" />
 </p>
-
+<p align="center">
+  <img src="./banner.png" alt="AI Mind Landscape" width="100%">
+</p>
 ---
 
 ## 👨‍💻 About Me
