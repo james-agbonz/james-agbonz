@@ -1,4 +1,4 @@
-# Hi 👋, I'm James Agbonhese
+# Hi 👋, I'm James
 
 ### Solutions Engineer • AI • Machine Learning • Cloud • Generative AI • MLOps
 
