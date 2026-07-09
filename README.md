@@ -22,7 +22,7 @@ Building with AI, automation, and code to turn complex ideas into smart systems.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/james-agbonhese/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -30,7 +30,7 @@ Building with AI, automation, and code to turn complex ideas into smart systems.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:jamesagbonz@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
