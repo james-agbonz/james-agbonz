@@ -1,6 +1,6 @@
 # Hi 👋, I'm James Agbonhese
 
-### AI Engineer • Machine Learning • Cloud • Generative AI • MLOps
+### Solutions Engineer • AI • Machine Learning • Cloud • Generative AI • MLOps
 
 <p align="center">
   <img src="assets/banner.png" alt="James Agbonhese AI Banner" width="100%">
