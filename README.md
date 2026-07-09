@@ -8,11 +8,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Master's in Electrical & Computer Engineering @ Concordia University
-
-🤖 AI Engineer specializing in Machine Learning, LLMs, Computer Vision, and Cloud Computing
-
-☁️ Passionate about scalable AI systems, MLOps, and modern cloud infrastructure.
+Building with AI, automation, and code to turn complex ideas into smart systems. I design intelligent cloud solutions, shape responsible AI, and lead teams that turn strategy into impact. Driven by one mission: use technology to make life better.
 
 ## 💻 Tech Stack
 
