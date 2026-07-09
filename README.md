@@ -14,14 +14,12 @@ Building with AI, automation, and code to turn complex ideas into smart systems.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,django,flask,docker,kubernetes,aws,azure,gcp,mongodb,redis,git,github,linux,vscode,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,docker,kubernetes,aws,azure,gcp,mongodb,redis,git,github,linux,vscode,pytorch,tensorflow" />
 
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=james-agbonz)](https://github.com/james-agbonz)
-[![Website Visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fjames-agbonz.github.io%2FMywebsite%2F&label=Website%20Views&icon=globe)](https://james-agbonz.github.io/Mywebsite/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thesonofja3mes)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/james-agbonhese/)
+
 
 ## 🌐 Connect with Me
 
